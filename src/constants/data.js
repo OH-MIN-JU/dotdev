@@ -130,6 +130,7 @@ export const pricingOptions = [
   {
     title: 'Free',
     price: '$0',
+    to: '/subscribe-free',
     features: [
       'Private board sharing',
       '5 Gb Storage',
@@ -140,6 +141,7 @@ export const pricingOptions = [
   {
     title: 'Pro',
     price: '$10',
+    to: '/subscribe-pro',
     features: [
       'Private board sharing',
       '10 Gb Storage',
@@ -150,6 +152,7 @@ export const pricingOptions = [
   {
     title: 'Enterprise',
     price: '$200',
+    to: '/subscribe-enterprise',
     features: [
       'Private board sharing',
       'Unlimited Storage',
